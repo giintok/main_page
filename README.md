@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=김기인%20뭐임&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=김기인%20연습장&fontSize=90)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=giintok)](https://github.com/giintok)
 
